@@ -1,6 +1,5 @@
-Group Candas
-
-##PART 1:
+Description
+============
 
 You've been ordered to improve your company's newsletter form. 
 You can design it however you want, but the manager wants the button to
@@ -15,7 +14,8 @@ color, background, margin, padding, border-radius,
 CSS pseudo selectors (:active, :hover), transform
 
 
-##PART 2: STRETCH GOALS
+STRETCH GOALS
+============
 
 1. Validate that it's an email the user has entered
 2. Give feedback as to whether the form was successfully submitted or not
