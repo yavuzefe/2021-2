@@ -4,6 +4,7 @@ body {
 }
 
 form {
+    margin: auto;
 }
 
 h3 {
@@ -22,10 +23,13 @@ button {
     border-radius: 2px;
     background: #3d492b;
     font-size: 15px;
+    transition: 500ms;
 }
 
 button:hover {
     font-size: 20px;
+    box-shadow: 0 14px 16px 0 rgba(18, 90, 4, 0.6), 0 16px 35px 0 rgba(49, 4, 174, 0.45);
+    transition: 500ms;
 }
 
 button:active {
